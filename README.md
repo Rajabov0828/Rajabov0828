@@ -107,7 +107,7 @@ print(me.current_goal())
 
 ---
 
-## 🎯 2025 Roadmap
+## 🎯 2026 Roadmap
 
 
 
